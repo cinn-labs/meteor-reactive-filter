@@ -11,7 +11,6 @@ Package.onUse(function(api) {
   api.use('ecmascript');
   api.use('tracker');
   api.use('cinn:react-infinite-scroll@0.0.2');
-  api.use('cinn:react-form-helpers@1.1.2');
   api.use('ecmascript');
 
   api.export('Filter');
